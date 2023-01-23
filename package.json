@@ -2,7 +2,7 @@
   "name": "photos",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/denvudd/photos.github.io",
+  "homepage": "https://denvudd.github.io/photos.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
