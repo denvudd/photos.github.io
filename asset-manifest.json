@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/denvudd/photos.github.io/static/css/main.07eedc18.css",
+    "main.js": "/denvudd/photos.github.io/static/js/main.ad684f5a.js",
+    "index.html": "/denvudd/photos.github.io/index.html",
+    "main.07eedc18.css.map": "/denvudd/photos.github.io/static/css/main.07eedc18.css.map",
+    "main.ad684f5a.js.map": "/denvudd/photos.github.io/static/js/main.ad684f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07eedc18.css",
+    "static/js/main.ad684f5a.js"
+  ]
+}
